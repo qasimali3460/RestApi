@@ -27,7 +27,7 @@
     "cors": "^2.8.5",
     "express": "^4.17.0",
     "hammerjs": "^2.0.8",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "mongoose": "^5.5.9",
     "mongoose-timestamp": "^0.6.0",
     "rxjs": "~6.3.3",
